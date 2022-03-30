@@ -1,1 +1,2 @@
 The five nominal number values exist
+Singular and plural are universal values with plural differenring by language
